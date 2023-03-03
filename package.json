@@ -1,4 +1,7 @@
 {
   "name": "pysets",
-  "version": "0.0.3"
+  "version": "0.0.3",
+  "scripts": {
+    "release": "git tag -a v$(cat package.json | jq -r \".version\") -m \"v$(cat package.json | jq -r \".version\")\" && echo \"New tag:\" && twine upload dist/*"
+  }
 }
