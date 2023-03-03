@@ -8,9 +8,9 @@ authors = [
   { name = "Trevor Manz", email = "trevor.j.manz@gmail.com" },
 ]
 description = "example of using changesets in pure python package"
-version = "0.0.0"
 readme = "README.md"
 dependencies = []
+dynamic = ["version"]
 
 [project.license]
 text = "MIT"
