@@ -1,5 +1,11 @@
 # pysets
 
+## 0.1.2
+
+### Patch Changes
+
+- 0719e6a: try custom release script
+
 ## 0.1.1
 
 ### Patch Changes
