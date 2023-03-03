@@ -1,5 +1,11 @@
 # pysets
 
+## 0.1.0
+
+### Minor Changes
+
+- 9562537: a minor release
+
 ## 0.0.3
 
 ### Patch Changes
