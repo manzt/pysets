@@ -1,5 +1,7 @@
 # pysets
 
+> **Warning**: this repo is experimental and not intended for real use.
+
 ## Creating changesets
 
 ```
