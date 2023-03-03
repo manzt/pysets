@@ -49,7 +49,7 @@ jobs:
         with:
           version: npx @changesets/cli version
           # This expects you to have a script called release which does a build for the packages and calls `changeset publish`
-          publish: twine upload dist/*
+          publish: npm run release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           TWINE_USERNAME: __token__
