@@ -16,7 +16,7 @@ dynamic = ["version"]
 text = "MIT"
 
 [tool.hatch.envs.default]
-dependencies = [ "ipython", "toml",]
+dependencies = []
 
 [tool.hatch.version]
 path = "package.json"
