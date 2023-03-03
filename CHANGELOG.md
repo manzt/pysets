@@ -1,5 +1,11 @@
 # pysets
 
+## 0.0.3
+
+### Patch Changes
+
+- 6353f11: blah
+
 ## 0.0.2
 
 ### Patch Changes
